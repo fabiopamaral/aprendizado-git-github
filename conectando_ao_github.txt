@@ -1,0 +1,2 @@
+Podemos conectar tudo que trabalhamos no Git para o gitHub.
+Assim ficará disponível todas as alterações no código, a cada commit, para compartilhar com quem quiser o código fonte.
