@@ -1,0 +1,2 @@
+Git é o programa de controle de versão mais usado no mundo da programação atualmente.
+O GitHub é uma espécie de rede social para os programadores hospedarem seus projetos e colaborarem com outros simultaneamente.
