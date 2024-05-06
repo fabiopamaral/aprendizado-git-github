@@ -1,0 +1,3 @@
+O processe de instalação é bastante simples. Basta acessar o site oficial do git e efetuar o download.
+Caso você esteja no MacOS ou Linux, o git já vem instalado de fábrica nesses sistemas operacionais.
+Configuraremos o git Bash para abrir o terminal do git dentro de qualquer pasta com facilidade.
