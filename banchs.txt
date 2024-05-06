@@ -1,0 +1,2 @@
+Branchs são camadas de trabalhar que podem ser unidas no trabalho da branch principal 
+para puxar alterações de vários colaboradores do projeto em um caminho principal.
